@@ -1,0 +1,1199 @@
+{
+  "version": 3,
+  "template": {
+    "name": "SZABLON_WYDAJNOSC.ods",
+    "size": 386158,
+    "mtime_ns": 1787141334050827500
+  },
+  "layouts": {
+    "BIGÓWKA": {
+      "sheet_name": "BIGÓWKA",
+      "header_row": 5,
+      "date_col": 2,
+      "employee_col": 4,
+      "qty_col": 8,
+      "area_col": 9,
+      "setups_col": 10,
+      "work_hours_col": 11,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          12
+        ],
+        [
+          "AWARIA",
+          13
+        ],
+        [
+          "SERIA 0",
+          14
+        ],
+        [
+          "ZEBRANIE",
+          15
+        ],
+        [
+          "INNE",
+          16
+        ],
+        [
+          "KONSERW.",
+          17
+        ]
+      ],
+      "shift_col": 3,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "blocks": [
+        {
+          "start_row": 6,
+          "end_row": 30,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 32,
+          "end_row": 56,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 58,
+          "end_row": 82,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "WALCÓWKA": {
+      "sheet_name": "WALCÓWKA",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 31,
+          "detected_owner": "EDYTA"
+        },
+        {
+          "start_row": 33,
+          "end_row": 57,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "BOX_MAT_1": {
+      "sheet_name": "BOX_MAT_1",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 29,
+          "detected_owner": "LEONID"
+        },
+        {
+          "start_row": 31,
+          "end_row": 55,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 57,
+          "end_row": 81,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 83,
+          "end_row": 107,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "B_PRO": {
+      "sheet_name": "B_PRO",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 29,
+          "detected_owner": "MARTA"
+        },
+        {
+          "start_row": 31,
+          "end_row": 55,
+          "detected_owner": "PATRYK"
+        },
+        {
+          "start_row": 57,
+          "end_row": 81,
+          "detected_owner": "EVIN"
+        },
+        {
+          "start_row": 83,
+          "end_row": 107,
+          "detected_owner": "KUSAL"
+        }
+      ]
+    },
+    "BOX_HD": {
+      "sheet_name": "BOX_HD",
+      "header_row": 5,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 6,
+          "end_row": 30,
+          "detected_owner": "PIOTR"
+        },
+        {
+          "start_row": 32,
+          "end_row": 56,
+          "detected_owner": "OKSI"
+        },
+        {
+          "start_row": 58,
+          "end_row": 82,
+          "detected_owner": "KUSAL"
+        },
+        {
+          "start_row": 84,
+          "end_row": 108,
+          "detected_owner": "GLEN"
+        },
+        {
+          "start_row": 111,
+          "end_row": 135,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "HYBRYDA": {
+      "sheet_name": "HYBRYDA",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 29,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 31,
+          "end_row": 55,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 57,
+          "end_row": 81,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 83,
+          "end_row": 107,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "PANOTEK_1": {
+      "sheet_name": "PANOTEK_1",
+      "header_row": 5,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 6,
+          "end_row": 30,
+          "detected_owner": "ANDRZEJ"
+        },
+        {
+          "start_row": 32,
+          "end_row": 56,
+          "detected_owner": "BEATA"
+        },
+        {
+          "start_row": 58,
+          "end_row": 82,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 84,
+          "end_row": 108,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "PANOTEK_2": {
+      "sheet_name": "PANOTEK_2",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 29,
+          "detected_owner": "LEVINA"
+        },
+        {
+          "start_row": 31,
+          "end_row": 55,
+          "detected_owner": "JULIA"
+        },
+        {
+          "start_row": 57,
+          "end_row": 81,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 83,
+          "end_row": 107,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "SKLEJARKA": {
+      "sheet_name": "SKLEJARKA",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 3,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 8,
+      "reset_cols": [
+        2,
+        3,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 29,
+          "detected_owner": "MELNYK"
+        },
+        {
+          "start_row": 31,
+          "end_row": 55,
+          "detected_owner": "VIKTOR"
+        },
+        {
+          "start_row": 57,
+          "end_row": 81,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 83,
+          "end_row": 107,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "PANOTEK_3": {
+      "sheet_name": "PANOTEK_3",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 29,
+          "detected_owner": "MYKOLA"
+        },
+        {
+          "start_row": 31,
+          "end_row": 55,
+          "detected_owner": "ELWIRA"
+        },
+        {
+          "start_row": 57,
+          "end_row": 81,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 83,
+          "end_row": 107,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "PRYMAT": {
+      "sheet_name": "PRYMAT",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 31,
+          "detected_owner": "VIKTOR"
+        },
+        {
+          "start_row": 33,
+          "end_row": 57,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 59,
+          "end_row": 83,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 85,
+          "end_row": 109,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "HVAYV": {
+      "sheet_name": "HVAYV",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 29,
+          "detected_owner": "MARCIN"
+        },
+        {
+          "start_row": 31,
+          "end_row": 55,
+          "detected_owner": "ŻENIA"
+        },
+        {
+          "start_row": 57,
+          "end_row": 81,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 83,
+          "end_row": 107,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "ROLLER_1_": {
+      "sheet_name": "ROLLER_1_",
+      "header_row": 5,
+      "date_col": 2,
+      "employee_col": 3,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 8,
+      "reset_cols": [
+        2,
+        3,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 6,
+          "end_row": 30,
+          "detected_owner": "KATIA"
+        },
+        {
+          "start_row": 32,
+          "end_row": 57,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 59,
+          "end_row": 84,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 86,
+          "end_row": 109,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "BOX_PRO_2": {
+      "sheet_name": "BOX_PRO_2",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 28,
+          "detected_owner": "ANDRII"
+        },
+        {
+          "start_row": 31,
+          "end_row": 55,
+          "detected_owner": "MONIKA"
+        },
+        {
+          "start_row": 58,
+          "end_row": 82,
+          "detected_owner": "GLEN"
+        },
+        {
+          "start_row": 84,
+          "end_row": 108,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "BOX_X": {
+      "sheet_name": "BOX_X",
+      "header_row": 4,
+      "date_col": 2,
+      "employee_col": 5,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 4,
+      "reset_cols": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 5,
+          "end_row": 28,
+          "detected_owner": "OLEK"
+        },
+        {
+          "start_row": 31,
+          "end_row": 55,
+          "detected_owner": "VITALII"
+        },
+        {
+          "start_row": 58,
+          "end_row": 82,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 84,
+          "end_row": 108,
+          "detected_owner": ""
+        }
+      ]
+    },
+    "CENTURY": {
+      "sheet_name": "CENTURY",
+      "header_row": 5,
+      "date_col": 2,
+      "employee_col": 3,
+      "qty_col": 9,
+      "area_col": 10,
+      "setups_col": 11,
+      "work_hours_col": 12,
+      "break_cols": [
+        [
+          "BRAK TOWARU",
+          13
+        ],
+        [
+          "AWARIA",
+          14
+        ],
+        [
+          "SERIA 0",
+          15
+        ],
+        [
+          "ZEBRANIE",
+          16
+        ],
+        [
+          "INNE",
+          17
+        ],
+        [
+          "KONSERW.",
+          18
+        ]
+      ],
+      "shift_col": 8,
+      "reset_cols": [
+        2,
+        3,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "start_row": 6,
+          "end_row": 30,
+          "detected_owner": "VITALII D"
+        },
+        {
+          "start_row": 32,
+          "end_row": 56,
+          "detected_owner": "MELNYK"
+        },
+        {
+          "start_row": 58,
+          "end_row": 82,
+          "detected_owner": ""
+        },
+        {
+          "start_row": 84,
+          "end_row": 108,
+          "detected_owner": ""
+        }
+      ]
+    }
+  }
+}
